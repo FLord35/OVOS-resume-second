@@ -2,3 +2,15 @@ baseURL: ""
 languageCode: ru
 title: Test
 theme: almeida-cv
+
+BasicInfo:
+  FirstName: Антон
+  LastName: Баранов
+  Photo: img/me.jpg
+  Contacts:
+    - Icon: fas fa-phone
+      Info: +7 (987) 700 ....
+    - Icon: fas fa-envelope
+      Info: flord35@gtandex.ru
+    - Icon: fas fa-map-marker-alt
+      Info: Russia
