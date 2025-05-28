@@ -1,0 +1,78 @@
+BasicInfo:
+    FirstName: Антон
+    LastName: Баранов
+    Photo: img/me.jpg
+    Contacts:
+      - Icon: fas fa-phone
+        Info: +7 (987) 700 ....
+      - Icon: fas fa-envelope
+        Info: flord35@gtandex.ru
+      - Icon: fas fa-map-marker-alt
+        Info: Россия
+
+Profile: Начинающий программист, который быстро может научиться чему-то новому. В данный момент учусь на третьем курсе университета ПГТУ. Люблю юмор, готовку, творческие проекты и, конечно же, программирование.
+
+Experience:
+  - Employer: Монета ру
+    Place: Йошкар-Ола, РФ
+    Positions:
+      - Title: Учебная практика
+        Date: Июнь 2024
+        Details:
+          - Обучение в течение двух недель
+          - Создание тестового проекта
+          - Посвящение в процесс жизненного цикла систем
+        Badges: ["Практика", "Программирование", "Учёба"]
+
+Education:
+  - Course: Школьное обучение
+    Place: Лицей №11 им. Т.И.Александровой
+    Date: 2014-2021
+    Details: Среднее общее образование
+
+  - Course: Факультет информатики и вычислительной техники, Программная инженерия
+    Place: Поволжский Государственный Технологический Университет
+    Date: 2021-...
+    Details: Высшее образование
+
+References:
+  - Name: Антон Баранов
+    Contacts:
+    - Icon: fas fa-phone
+      Info: +44 123 456 790
+    - Icon: fas fa-envelope
+      Info: contact@person-one.com
+    - Icon: fas fa-map-marker-alt
+      Info: Melbourne, Australia
+
+Skills:
+  - Family: программирование
+    Items:
+      - C++
+      - HTML
+      - CSS
+      - MySQL
+      - C#
+      - Java
+  - Family: Инструменты разработчика
+    Items:
+      - Git
+      - Docker
+  - Family: Разное
+    Items:
+      - Adobe Photoshop
+      - Sony Vegas
+
+Languages:
+  - Name: Русский
+    Level: Родной
+  - Name: Английский
+    Level: C2
+
+Interests:
+  - Программирование
+  - Готовка
+  - Творчество
+  - Фотомонтаж
+  - Видеомонтаж
+  - Музыка
